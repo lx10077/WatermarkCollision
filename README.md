@@ -1,4 +1,4 @@
-# 🔍 Optimal Detection for Language Watermarks under Pseudorandom Collision
+# 🔍 Optimal Detection for Language Watermarks with Pseudorandom Collision
 
 This repository provides the full experimental framework for **detecting statistical language watermarks under pseudo-random collisions**.  
 It contains two main components:

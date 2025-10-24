@@ -1,4 +1,4 @@
-# Optimal Detection for Language Watermarks under Pseudorandom Collision – Simulation Code
+# Optimal Detection for Language Watermarks with Pseudorandom Collision – Simulation Code
 
 This repository contains simulation and analysis scripts for evaluating **optimal detection rules under pseudorandom collisions**.  
 The experiments deliberately introduce repetition to study how such collisions affect **Type I** and **Type II** error control in watermark detection.

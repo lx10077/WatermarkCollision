@@ -1,4 +1,4 @@
-# Optimal Detection for Language Watermarks under Pseudorandom Collision – LLM Code
+# Optimal Detection for Language Watermarks with Pseudorandom Collision – LLM Code
 
 This file implements the **empirical evaluation pipeline for watermark detection under pseudorandom collision** using large language models. It complements the simulation study by operating on LLM-generated text under two watermarking schemes:
 - **Gumbel-Max watermark**
